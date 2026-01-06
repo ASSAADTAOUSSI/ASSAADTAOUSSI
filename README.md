@@ -1,22 +1,20 @@
-# Ecommerce-Website
-The *Planet Shopify* is a ecommerce website.Developed using php in backend and mysql database and used html and bootstrap in frontend.
-Also used [formspree](https://formspree.io) in contact form.
+# 👋 Hi, I'm Assaad Taoussi
 
-## Technologies
-- [PHP](https://www.php.net/docs.php)
-- [Bootstrap](https://getbootstrap.com)
-- [MySQL](https://www.mysql.com)
-- [HTML](https://www.w3schools.com/html/default.asp)
-- [CSS](https://www.w3schools.com/css/default.asp)
+🎓 Software Engineering Student  
+💻 FULLSTACK Developer (PHP | JAVA | Spring Boot | React | MySQL...)  
+🚀 Passionate about Web & Cloud Technologies  
 
+## 🔧 Technologies & Tools
+- PHP, Java, Spring Boot
+- MySQL, PostgreSQL
+- HTML, CSS, Bootstrap
+- Git, GitHub
 
+## 📌 Projects
+- 🛒 Ecommerce Website (PHP & MySQL)
+- 🏨 Hotel Management System (Spring Boot)
+- 🚚 Delivery Platform (Microservices)
 
-## Set Up Instructions For Running Website
-- Start the Apache and MySQL modules using the **XAMPP** controller.
-- Open the **phpMyAdmin** and create a database **"ecommerce"**. 
-- Import the **ecommerce.sql** file present in the zip folder.
-- Open the htdocs folder in the xampp folder. Copy paste the folder **Planet-Shopify-ecommerce-website**.
-- Open the browser (chrome), type *localhost/Planet-Shopify-ecommerce-website* and you should see the index page of the website.
-
-
-*Note: In about.php in this [line](https://github.com/winston-dsouza/Planet-Shopify-ecommerce-website/blob/master/about.php#L71) enter your email* and activate the form
+## 📫 Contact
+- Email: assaad.taoussi0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/assaad-taoussi
