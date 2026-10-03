@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Assaad Taoussi
 
-🎓 State Engineer in Computer Science & Networks (MIAGE)
-💻 Full-Stack Developer | Java • Spring Boot • React • Next.js • FastAPI
+💻 Software Engineer | Full-Stack Developer | Java • Spring Boot • React • Next.js • FastAPI
+🎓 State Engineer in Computer Science & Networks (MIAGE) – EMSI Rabat ✅ Graduated
 🤖 Exploring AI-powered applications — RAG, LLMs & conversational systems
 🚀 Passionate about Web, Backend, Cloud-Ready Architectures & Applied AI
 
-I am a **State Engineer in Computer Science & Networks**, with strong hands-on experience building **scalable web applications**, **RESTful APIs**, **microservices-based systems**, and more recently, **AI-powered conversational platforms**.
+I am a **Software Engineer** with a State Engineering degree in Computer Science & Networks, with strong hands-on experience building **scalable web applications**, **RESTful APIs**, **microservices-based systems**, and more recently, **AI-powered conversational platforms**.
 I enjoy transforming ideas into real-world solutions while focusing on **clean code, performance, and software architecture**.
 
 ---
